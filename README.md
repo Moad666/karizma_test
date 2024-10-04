@@ -1,6 +1,3 @@
-to connect with a super user : username : moad / password : moadmoad
-to connect with a simple user : username : farid / password : moadmoadmoad
-
 to create this project i used Django for backend and frontend
 
 
